@@ -59,7 +59,7 @@ input
 rep()	{
     sleep 1
     clear
-    cd $HOME/A-tools
+    #cd $HOME/A-tools
     bash atool.sh
 }
 bye_atool()	{
